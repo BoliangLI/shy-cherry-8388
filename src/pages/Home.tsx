@@ -12,7 +12,7 @@ const Home = () => {
             <Sparkles className="h-8 w-8 text-primary" />
           </div>
           <CardTitle className="text-3xl font-bold text-foreground">
-            Hello World
+            Hello World1111
           </CardTitle>
           <CardDescription className="text-muted-foreground">
             欢迎使用基于 React + TypeScript + Vite 构建的现代 Web 应用
